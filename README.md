@@ -70,9 +70,9 @@ python app.py
 
 ## Requirements
 
-torch
-torchvision
-gradio
+torch  
+torchvision  
+gradio  
 Pillow
 
 ---

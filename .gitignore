@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Model files
+model/*.pth
+
+# Environment
+.env
+.venv
+env/
+venv/

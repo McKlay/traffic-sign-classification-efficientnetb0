@@ -9,16 +9,16 @@ license: mit
 model_card: true
 ---
 
-[![HF Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue?logo=huggingface&style=flat-square)](https://huggingface.co/spaces/McKlay/efficientnet-flower-classifier)
+[![HF Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue?logo=huggingface&style=flat-square)](https://github.com/McKlay/traffic-sign-classification-efficientnetb0)
 [![Gradio](https://img.shields.io/badge/Built%20with-Gradio-orange?logo=gradio&style=flat-square)](https://www.gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/McKlay/TensorFlow-Companion-Book)
-![GitHub Repo stars](https://img.shields.io/github/stars/McKlay/TensorFlow-Companion-Book?style=social)
-![GitHub forks](https://img.shields.io/github/forks/McKlay/TensorFlow-Companion-Book?style=social)
-![MIT License](https://img.shields.io/github/license/McKlay/TensorFlow-Companion-Book)
+![GitHub last commit](https://img.shields.io/github/last-commit/McKlay/traffic-sign-classification-efficientnetb0)
+![GitHub Repo stars](https://img.shields.io/github/stars/McKlay/traffic-sign-classification-efficientnetb0?style=social)
+![GitHub forks](https://img.shields.io/github/forks/McKlay/traffic-sign-classification-efficientnetb0?style=social)
+![MIT License](https://img.shields.io/github/license/McKlay/traffic-sign-classification-efficientnetb0)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=McKlay.TensorFlow-Companion-Book)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=McKlay.traffic-sign-classification-efficientnetb0)
 
 # 🚦 Traffic Sign Recognition - Hugging Face Inference App
 

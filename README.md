@@ -32,7 +32,7 @@ Deployed on Hugging Face Spaces [Hugging Face Space](https://huggingface.co/spac
 ---
 
 ## Folder Structure
-
+```bash
 9_TrafficSignRecognition-HF/
 │ app.py
 │ README.md
@@ -40,6 +40,7 @@ Deployed on Hugging Face Spaces [Hugging Face Space](https://huggingface.co/spac
 │ utils.py
 └───model/
     └── traffic_sign_model.pth
+```
 
 ---
 
